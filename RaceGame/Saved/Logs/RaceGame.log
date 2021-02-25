@@ -969,3 +969,56 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.25-18.40.44:542][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../1/RaceGame/RaceGame/Saved/Autosaves/Game/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2021.02.25-18.40.44:705][823]LogSavePackage: Moving '../../../../../1/RaceGame/RaceGame/Saved/MainMenu_Auto1C37E70D14E84DC4733F273931994785F.tmp' to '../../../../../1/RaceGame/RaceGame/Saved/Autosaves/Game/MainMenu_Auto1.uasset'
 [2021.02.25-18.40.44:706][823]LogFileHelpers: Auto-saving content packages took 0.164
+[2021.02.25-18.43.43:319][359]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.25-18.43.43:319][359]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.25-18.56.21:992][532]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.02.25-18.56.25:321][877]BlueprintLog: New page: Compile MainMenu
+[2021.02.25-18.56.25:345][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.02.25-18.56.33:281][803]LogSlate: Window 'MainMenu' being destroyed
+[2021.02.25-18.56.33:289][803]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-18.56.33:289][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-18.56.33:300][803]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-18.56.33:300][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-18.56.35:271][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../1/RaceGame/RaceGame/Content/MainMenu.uasset" SILENT=true
+[2021.02.25-18.56.35:282][ 29]LogSavePackage: Moving '../../../../../1/RaceGame/RaceGame/Saved/MainMenu5C70E38E48B445EA351D54AA202B5627.tmp' to '../../../../../1/RaceGame/RaceGame/Content/MainMenu.uasset'
+[2021.02.25-18.56.35:291][ 29]AssetCheck: New page: Asset Save: MainMenu
+[2021.02.25-18.56.35:291][ 29]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainMenu.MainMenu
+[2021.02.25-18.57.11:482][502]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.02.25-18.57.11:498][502]LogContentBrowser: Creating deferred item: NewFolder
+[2021.02.25-18.57.13:630][758]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2021.02.25-18.57.13:630][758]LogContentBrowser: End creating deferred item NewFolder
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.SKEL_MainMenu_C:Tick' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.SKEL_MainMenu_C:Construct' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:213][882]LogMetaData: Removing '/Game/StarterContent/MainMenu.SKEL_MainMenu_C:PreConstruct' ref from Metadata '/Game/MainMenu.PackageMetaData'
+[2021.02.25-18.57.23:242][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/MainMenu" FILE="../../../../../1/RaceGame/RaceGame/Content/StarterContent/MainMenu.uasset" SILENT=true
+[2021.02.25-18.57.23:251][882]LogSavePackage: Moving '../../../../../1/RaceGame/RaceGame/Saved/MainMenu4CE04F9244193A5BE6B30EA4FCE0118C.tmp' to '../../../../../1/RaceGame/RaceGame/Content/StarterContent/MainMenu.uasset'
+[2021.02.25-18.57.23:333][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.02.25-18.57.23:359][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.02.25-18.57.23:374][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.02.25-18.57.23:411][882]AssetCheck: New page: Asset Save: MainMenu
+[2021.02.25-18.57.23:411][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/StarterContent/MainMenu.MainMenu
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.MainMenu_C' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.SKEL_MainMenu_C:PreConstruct' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.SKEL_MainMenu_C:Construct' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.SKEL_MainMenu_C:Tick' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:559][242]LogMetaData: Removing '/Game/StarterContent/UI/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/StarterContent/MainMenu.PackageMetaData'
+[2021.02.25-18.57.26:577][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/UI/MainMenu" FILE="../../../../../1/RaceGame/RaceGame/Content/StarterContent/UI/MainMenu.uasset" SILENT=true
+[2021.02.25-18.57.26:588][242]LogSavePackage: Moving '../../../../../1/RaceGame/RaceGame/Saved/MainMenu419AAF85409BE19B916141A7421ECB41.tmp' to '../../../../../1/RaceGame/RaceGame/Content/StarterContent/UI/MainMenu.uasset'
+[2021.02.25-18.57.26:661][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.02.25-18.57.26:682][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.02.25-18.57.26:698][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.02.25-18.57.26:722][242]AssetCheck: New page: Asset Save: MainMenu
+[2021.02.25-18.57.26:722][242]LogContentValidation: Display: Validating WidgetBlueprint /Game/StarterContent/UI/MainMenu.MainMenu
+[2021.02.25-18.57.29:731][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/MainMenu" FILE="../../../../../1/RaceGame/RaceGame/Content/StarterContent/Maps/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.25-18.57.29:762][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.02.25-18.57.29:769][592]LogSavePackage: Moving '../../../../../1/RaceGame/RaceGame/Saved/MainMenuD638E625449789470BC2648B93DDEF3D.tmp' to '../../../../../1/RaceGame/RaceGame/Content/StarterContent/Maps/MainMenu.umap'
+[2021.02.25-18.57.29:793][592]AssetCheck: New page: Asset Save: MainMenu
+[2021.02.25-18.57.29:794][592]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/MainMenu.MainMenu
