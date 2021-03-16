@@ -1,0 +1,846 @@
+﻿Log file open, 03/16/21 18:56:27
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: RaceGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.194490
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/StarterContent/Blueprints/Maps/MainMenu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=F:/Project/RaceGame/RaceGame/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=640 -WinY=340 SAVEWINPOS=1 -ResX=1280 -ResY=720
+LogInit: Base Directory: F:/Unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+[2021.03.16-15.56.27:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.03.16-15.56.27:885][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+[2021.03.16-15.56.27:885][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+[2021.03.16-15.56.27:891][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.16-15.56.27:891][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.16-15.56.27:892][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.16-15.56.27:892][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.16-15.56.27:892][  0]LogHAL: Display: Platform has ~ 16 GB [17125625856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.16-15.56.27:892][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.16-15.56.27:892][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.16-15.56.27:892][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Scalability.ini]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.16-15.56.27:893][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Project/RaceGame/RaceGame/Saved/Config/Windows/Engine.ini]
+[2021.03.16-15.56.27:893][  0]LogInit: Computer: DESKTOP-O81D5O1
+[2021.03.16-15.56.27:893][  0]LogInit: User: maxim
+[2021.03.16-15.56.27:893][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.16-15.56.27:893][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.16-15.56.27:893][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.16-15.56.27:893][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.16-15.56.27:893][  0]LogMemory: Process Physical Memory: 136.79 MB used, 136.79 MB peak
+[2021.03.16-15.56.27:893][  0]LogMemory: Process Virtual Memory: 111.89 MB used, 111.89 MB peak
+[2021.03.16-15.56.27:893][  0]LogMemory: Physical Memory: 7608.89 MB used,  8723.38 MB free, 16332.27 MB total
+[2021.03.16-15.56.27:893][  0]LogMemory: Virtual Memory: 134180864.00 MB used,  36865.70 MB free, 134217728.00 MB total
+[2021.03.16-15.56.27:899][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.16-15.56.27:931][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.16-15.56.27:932][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.16-15.56.27:932][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.03.16-15.56.27:933][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.03.16-15.56.27:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.03.16-15.56.27:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.03.16-15.56.27:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.03.16-15.56.27:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.03.16-15.56.27:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.03.16-15.56.27:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.03.16-15.56.27:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.03.16-15.56.27:945][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.03.16-15.56.27:965][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.16-15.56.27:965][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.16-15.56.27:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.16-15.56.27:976][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.16-15.56.27:976][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.16-15.56.27:976][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.16-15.56.28:040][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.03.16-15.56.28:040][  0]LogD3D11RHI:       8088/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.16-15.56.28:042][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.16-15.56.28:042][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.16-15.56.28:042][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.16-15.56.28:047][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.16-15.56.28:048][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.16-15.56.28:048][  0]LogWindows: EnumDisplayDevices:
+[2021.03.16-15.56.28:048][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.03.16-15.56.28:048][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.16-15.56.28:048][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.16-15.56.28:048][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.03.16-15.56.28:048][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.16-15.56.28:048][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.03.16-15.56.28:048][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2021.03.16-15.56.28:048][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2021.03.16-15.56.28:048][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.03.16-15.56.28:097][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.16-15.56.28:097][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.16-15.56.28:097][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.16-15.56.28:116][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.16-15.56.28:117][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.03.16-15.56.28:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.16-15.56.28:352][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.16-15.56.28:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.16-15.56.28:366][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.16-15.56.28:366][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.16-15.56.28:372][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.16-15.56.28:421][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.03.16-15.56.28:421][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../Project/RaceGame/RaceGame/Intermediate/Shaders/WorkingDirectory/3692/).
+[2021.03.16-15.56.28:421][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/maxim/AppData/Local/Temp/UnrealShaderWorkingDir/1FE5E2464E500278B36B4FB845912EF2/'.
+[2021.03.16-15.56.28:421][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.16-15.56.28:421][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.16-15.56.29:062][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.16-15.56.29:099][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/maxim/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.03.16-15.56.29:099][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/maxim/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.03.16-15.56.29:099][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Project/RaceGame/RaceGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.16-15.56.29:099][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.16-15.56.29:099][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Project/RaceGame/RaceGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.16-15.56.29:099][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.16-15.56.29:111][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.16-15.56.29:111][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.16-15.56.29:111][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.16-15.56.29:150][  0]LogDerivedDataCache: Speed tests for C:/Users/maxim/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.03.16-15.56.29:150][  0]LogDerivedDataCache: Display: Performance to C:/Users/maxim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1642.56MBs, RandomWriteSpeed=24.07MBs. Assigned SpeedClass 'Local'
+[2021.03.16-15.56.29:151][  0]LogDerivedDataCache: Using Local data cache path C:/Users/maxim/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.16-15.56.29:151][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.16-15.56.29:151][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.16-15.56.29:189][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.16-15.56.29:189][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.16-15.56.29:251][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.16-15.56.29:252][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.03.16-15.56.29:252][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2021.03.16-15.56.29:252][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2021.03.16-15.56.29:252][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.03.16-15.56.29:252][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.03.16-15.56.29:261][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.03.16-15.56.29:264][  0]LogAssetRegistry: FAssetRegistry took 0.0014 seconds to start up
+[2021.03.16-15.56.29:398][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.000607 seconds
+[2021.03.16-15.56.29:445][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.16-15.56.29:445][  0]LogInit: Active device profile: [0000028FD8F11F00][0000028FCF2AB500 49] Windows
+[2021.03.16-15.56.29:445][  0]LogInit: Profiles: [0000028FD8F11F00][0000028FCF2AB500 49] Windows, [0000028FD8EEE300][0000028FCF2AF680 49] WindowsNoEditor, [0000028FD8F13A00][0000028FCF2B3800 49] WindowsServer, [0000028FD8EEC800][0000028FCF2B7980 49] WindowsClient, [0000028FD8F10900][0000028FCF2BBB00 49] IOS, [0000028FD8EEF500][0000028FD1665C80 49] iPadAir, [0000028FD8F11600][0000028FD1668140 49] iPadAir2, [0000028FD8EA7600][0000028FD1670400 49] IPadPro, [0000028FD8EA7700][0000028FD166C440 49] iPadAir3, [0000028FD8F11300][0000028FD16745C0 49] iPadAir4, [0000028FD8EA7900][0000028FD1678740 49] iPadMini2, [0000028FD8F12200][0000028FD167C8C0 49] iPadMini3, [0000028FD8EA6400][0000028FD1680A40 49] iPadMini4, [0000028FD8F13E00][0000028FD1684BC0 49] iPadMini5, [0000028FD8EC2E00][0000028FD168CE80 49] iPhone6, [0000028FD8EC2F00][0000028FD1688EC0 49] iPodTouch6, [0000028FD8EA7F00][0000028FD1C37140 49] iPhone7, [0000028FD8EA7500][0000028FD1691180 49] iPodTouch7, [0000028FD8EC2700][0000028FD16952C0 49] iPhone5S, [0000028FD8EA7300][0000028FD1699400 49] iPhone6Plus, [0000028FD8EC3E00][0000028FD16A1580 49] iPhone6S, [0000028FD8EA5100][0000028FD16A5700 49] iPhone6SPlus, [0000028FD8EC2900][0000028FD16A9880 49] iPhone7Plus, [0000028FD8EA7800][0000028FD16ADA00 49] iPhoneSE, [0000028FD8EC3000][0000028FD16B1B80 49] iPhone8, [0000028FD8EA7400][0000028FD16B5D00 49] iPhone8Plus, [0000028FD8EC1F00][0000028FD16B81C0 49] iPhoneX, [0000028FD8EA5B00][0000028FD16BC340 49] iPhoneXS, [0000028FD8EC0600][0000028FD16C04C0 49] iPhoneXSMax, [0000028FD8EA4200][0000028FD16C4640 49] iPhoneXR, [0000028FD8EC3400][0000028FD16C87C0 49] iPhone11, [0000028FD8EA5400][0000028FD16CC940 49] iPhone11Pro, [0000028FD8EC0800][0000028FD16D0AC0 49] iPhone11ProMax, [0000028FD8EA4900][0000028FD16D4C40 49] iPhoneSE2, [0000028FD8EC1C00][0000028FD16D8DC0 49] iPhone12Mini, [0000028FD8EA5D00][0000028FD16DCF40 49] iPhone12, [0000028FD8EC1600][0000028FD16E10C0 49] iPhone12Pro, [0000028FD8EA7000][0000028FD169D200 49] iPhone12ProMax, [0000028FD8EC1100][0000028FD16E5340 49] iPadPro105, [0000028FD8EA4700][0000028FD16E9480 49] iPadPro129, [0000028FD8EC2B00][0000028FD16F1600 49] iPadPro97, [0000028FD8EA6700][0000028FD16F5780 49] iPadPro2_129, [0000028FD8EA7A00][0000028FD16F9900 49] iPad5, [0000028FD8EED900][0000028FD16FDA80 49] iPad6, [0000028FD8EA7B00][0000028FD1701C00 49] iPad7, [0000028FD8EEE200][0000028FD17040C0 49] iPad8, [0000028FD8EA5300][0000028FD1708240 49] iPadPro11, [0000028FD8EEEB00][0000028FD170C3C0 49] iPadPro2_11, [0000028FD8EA6500][0000028FD1710540 49] iPadPro3_129, [0000028FD8EED000][0000028FD17146C0 49] iPadPro4_129, [0000028FD8EEF300][0000028FD1718840 49] AppleTV, [0000028FD8EC2C00][0000028FD171C9C0 49] AppleTV4K, [0000028FD8EEC100][0000028FD1720B40 49] TVOS, [0000028FD8EC3800][0000028FD1724CC0 49] Mac, [0000028FD8EEC900][0000028FD1728E40 49] MacClient, [0000028FD8EC0700][0000028FD172CFC0 49] MacNoEditor, [0000028FD8EEFE00][0000028FD1731140 49] MacServer, [0000028FD8EC1000][0000028FD16ED280 49] Linux, [0000028FD8EEEE00][0000028FD17353C0 49] LinuxNoEditor, [0000028FD8EC1D00][0000028FD1739500 49] LinuxAArch64NoEditor, [0000028FD8EA5A00][0000028FD173D640 49] LinuxClient, [0000028FD8EC0900][0000028FD17457C0 49] LinuxAArch64Client, [0000028FD8EA4B00][0000028FD1749940 49] LinuxServer, [0000028FD8EC2000][0000028FD174DAC0 49] LinuxAArch64Server, [0000028FD8EA4300][0000028FD1751C40 49] Android, [0000028FD8EC0400][0000028FD1754100 49] Android_Low, [0000028FD8EA7200][0000028FD1758280 49] Android_Mid, [0000028FD8EC2800][0000028FD175C400 49] Android_High, [0000028FD8EA7D00][0000028FD1760580 49] Android_Default, [0000028FD8EC3A00][0000028FD1764700 49] Android_Adreno4xx, [0000028FD8EA5000][0000028FD1768880 49] Android_Adreno5xx_Low, [0000028FD8EC3300][0000028FD176CA00 49] Android_Adreno5xx, [0000028FD8EA4600][0000028FD1770B80 49] Android_Adreno6xx, [0000028FD8EC0200][0000028FD1774D00 49] Android_Adreno6xx_Vulkan, [0000028FD8EA6F00][0000028FD1778E80 49] Android_Mali_T6xx, [0000028FD8EC3900][0000028FD177D000 49] Android_Mali_T7xx, [0000028FD8EA5800][0000028FD1781180 49] Android_Mali_T8xx, [0000028FD8EC3700][0000028FD17412C0 49] Android_Mali_G71, [0000028FD8EA7100][0000028FD1785400 49] Android_Mali_G72, [0000028FD8EC1B00][0000028FD1789540 49] Android_Mali_G72_Vulkan, [0000028FD8EA7E00][0000028FD178D680 49] Android_Mali_G76, [0000028FD8EC0F00][0000028FD1795800 49] Android_Mali_G76_Vulkan, [0000028FD8EA6D00][0000028FD1799980 49] Android_Mali_G77, [0000028FD8EC2300][0000028FD179DB00 49] Android_Mali_G77_Vulkan, [0000028FD8EA4C00][0000028FD17A1C80 49] Android_Vulkan_SM5, [0000028FD8EC3B00][0000028FD17A4140 49] Android_PowerVR_G6xxx, [0000028FD8EA5F00][0000028FD17A82C0 49] Android_PowerVR_GT7xxx, [0000028FD8EC2100][0000028FD17AC440 49] Android_PowerVR_GE8xxx, [0000028FD8EA6300][0000028FD17B05C0 49] Android_PowerVR_GM9xxx, [0000028FD8EC2500][0000028FD17B4740 49] Android_PowerVR_GM9xxx_Vulkan, [0000028FD8EA5900][0000028FD17B88C0 49] Android_TegraK1, [0000028FD8EC2A00][0000028FD17BCA40 49] Android_Unknown_Vulkan, [0000028FD8EA4400][0000028FD17C0BC0 49] Lumin, [0000028FD8EC2D00][0000028FD17C4D40 49] Lumin_Desktop, [0000028FD8EA5C00][0000028FD17C8EC0 49] HoloLens, 
+[2021.03.16-15.56.29:479][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.16-15.56.29:479][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.16-15.56.29:479][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.16-15.56.29:479][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.16-15.56.29:479][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.16-15.56.29:545][  0]LogNetVersion: RaceGame 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3636571145)
+[2021.03.16-15.56.29:765][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.03.16-15.56.29:853][  0]LogMoviePlayer: Initializing movie player
+[2021.03.16-15.56.30:035][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.16-15.56.30:038][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.16-15.56.30:073][  0]SourceControl: Source control is disabled
+[2021.03.16-15.56.30:073][  0]SourceControl: Source control is disabled
+[2021.03.16-15.56.30:076][  0]SourceControl: Source control is disabled
+[2021.03.16-15.56.30:081][  0]LogUProjectInfo: Found projects:
+[2021.03.16-15.56.30:134][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.16-15.56.30:134][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.16-15.56.30:169][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.16-15.56.30:225][  0]LogOcInput: OculusInput pre-init called
+[2021.03.16-15.56.30:232][  0]LogUObjectArray: 20223 objects as part of root set at end of initial load.
+[2021.03.16-15.56.30:232][  0]LogUObjectAllocator: 5385920 out of 0 bytes used by permanent object pool.
+[2021.03.16-15.56.30:232][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.16-15.56.30:272][  0]LogEngine: Initializing Engine...
+[2021.03.16-15.56.30:273][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.16-15.56.30:273][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.16-15.56.30:274][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.16-15.56.30:339][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.16-15.56.30:339][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.03.16-15.56.30:343][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.03.16-15.56.30:343][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.16-15.56.30:344][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.16-15.56.30:344][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.16-15.56.30:344][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.16-15.56.30:355][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.16-15.56.30:355][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.16-15.56.30:378][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2021.03.16-15.56.30:384][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.16-15.56.30:385][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.16-15.56.30:385][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.16-15.56.30:386][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.16-15.56.30:386][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.16-15.56.30:386][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.16-15.56.30:387][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.16-15.56.30:387][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.16-15.56.30:387][  0]LogInit: FAudioDevice initialized.
+[2021.03.16-15.56.30:388][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.16-15.56.30:388][  0]LogInit: Texture streaming: Enabled
+[2021.03.16-15.56.30:432][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.03.16-15.56.30:432][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-15.56.30:433][  0]LogInit: Display: Game Engine Initialized.
+[2021.03.16-15.56.30:433][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.03.16-15.56.30:487][  0]LogInit: Display: Starting Game.
+[2021.03.16-15.56.30:487][  0]LogNet: Browse: /Game/StarterContent/Blueprints/Maps/MainMenu?Name=Player
+[2021.03.16-15.56.30:487][  0]LogLoad: LoadMap: /Game/StarterContent/Blueprints/Maps/MainMenu?Name=Player
+[2021.03.16-15.56.30:487][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.03.16-15.56.30:488][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-15.56.30:488][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.30:496][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.16-15.56.30:498][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.03.16-15.56.30:591][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.16-15.56.30:598][  0]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.16-15.56.30:598][  0]LogLoad: Game class is 'GameMode'
+[2021.03.16-15.56.30:599][  0]LogWorld: Bringing World /Game/StarterContent/Blueprints/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.16-18.56.30
+[2021.03.16-15.56.30:599][  0]LogWorld: Bringing up level for play took: 0.000300
+[2021.03.16-15.56.30:599][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.16-15.56.30:600][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.30:600][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.30:600][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.30:601][  0]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.16-15.56.30:601][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.03.16-15.56.30:601][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.03.16-15.56.30:601][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.30:601][  0]LogLoad: Took 0.114131 seconds to LoadMap(/Game/StarterContent/Blueprints/Maps/MainMenu)
+[2021.03.16-15.56.30:653][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.03.16-15.56.30:653][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.03.16-15.56.30:653][  0]LogLoad: (Engine Initialization) Total time: 3.44 seconds
+[2021.03.16-15.56.30:653][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.16-15.56.30:653][  0]LogInit: First time updating LLM stats...
+[2021.03.16-15.56.30:658][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.16-15.56.30:663][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.35:449][285]LogRenderer: Reallocating scene render targets to support 1920x1020 Format 10 NumSamples 1 (Frame:287).
+[2021.03.16-15.56.41:236][699]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.41:236][699]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.41:236][699]LogNet: Browse: /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.56.41:236][699]LogLoad: LoadMap: /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.56.41:236][699]LogWorld: BeginTearingDown for /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.56.41:236][699]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-15.56.41:236][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.41:269][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.16-15.56.41:273][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.03.16-15.56.41:367][699]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.16-15.56.41:368][699]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.16-15.56.41:368][699]LogLoad: Game class is 'GameMode'
+[2021.03.16-15.56.41:372][699]LogWorld: Bringing World /Game/StarterContent/Blueprints/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.16-18.56.41
+[2021.03.16-15.56.41:372][699]LogWorld: Bringing up level for play took: 0.003090
+[2021.03.16-15.56.41:372][699]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.16-15.56.41:372][699]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.41:372][699]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.41:372][699]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.41:373][699]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.16-15.56.41:373][699]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.41:374][699]LogLoad: Took 0.137687 seconds to LoadMap(/Game/StarterContent/Blueprints/Maps/MainMenu)
+[2021.03.16-15.56.41:378][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.44:755][944]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.44:756][944]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.44:756][944]LogNet: Browse: /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.56.44:756][944]LogLoad: LoadMap: /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.56.44:756][944]LogWorld: BeginTearingDown for /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.56.44:756][944]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-15.56.44:756][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.44:789][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.16-15.56.44:791][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.16-15.56.44:885][944]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.03.16-15.56.44:886][944]LogAIModule: Creating AISystem for world MainMenu
+[2021.03.16-15.56.44:886][944]LogLoad: Game class is 'GameMode'
+[2021.03.16-15.56.44:887][944]LogWorld: Bringing World /Game/StarterContent/Blueprints/Maps/MainMenu.MainMenu up for play (max tick rate 0) at 2021.03.16-18.56.44
+[2021.03.16-15.56.44:887][944]LogWorld: Bringing up level for play took: 0.000269
+[2021.03.16-15.56.44:887][944]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.16-15.56.44:887][944]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.44:888][944]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.44:888][944]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.44:888][944]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.16-15.56.44:888][944]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.44:889][944]LogLoad: Took 0.132795 seconds to LoadMap(/Game/StarterContent/Blueprints/Maps/MainMenu)
+[2021.03.16-15.56.45:709][  1]LogPackageName: SearchForPackageOnDisk took   0.051s to resolve LevelSelect.umap.
+[2021.03.16-15.56.45:710][  1]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.45:710][  1]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.45:760][  1]LogPackageName: SearchForPackageOnDisk took   0.050s to resolve LevelSelect.umap.
+[2021.03.16-15.56.45:760][  1]LogNet: Browse: /Game/StarterContent/Blueprints/Maps/LevelSelect
+[2021.03.16-15.56.45:760][  1]LogLoad: LoadMap: /Game/StarterContent/Blueprints/Maps/LevelSelect
+[2021.03.16-15.56.45:760][  1]LogWorld: BeginTearingDown for /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.56.45:761][  1]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-15.56.45:761][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.45:799][  1]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.16-15.56.45:801][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.16-15.56.45:814][  1]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelect'.
+[2021.03.16-15.56.45:815][  1]LogAIModule: Creating AISystem for world LevelSelect
+[2021.03.16-15.56.45:815][  1]LogLoad: Game class is 'GameMode'
+[2021.03.16-15.56.45:815][  1]LogWorld: Bringing World /Game/StarterContent/Blueprints/Maps/LevelSelect.LevelSelect up for play (max tick rate 0) at 2021.03.16-18.56.45
+[2021.03.16-15.56.45:816][  1]LogWorld: Bringing up level for play took: 0.000334
+[2021.03.16-15.56.45:816][  1]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.03.16-15.56.45:816][  1]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.45:816][  1]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.45:816][  1]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.45:817][  1]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.03.16-15.56.45:817][  1]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.45:817][  1]LogLoad: Took 0.056714 seconds to LoadMap(/Game/StarterContent/Blueprints/Maps/LevelSelect)
+[2021.03.16-15.56.45:817][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.55:028][662]LogPackageName: SearchForPackageOnDisk took   0.050s to resolve Level2.umap.
+[2021.03.16-15.56.55:028][662]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.55:028][662]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.56.55:078][662]LogPackageName: SearchForPackageOnDisk took   0.050s to resolve Level2.umap.
+[2021.03.16-15.56.55:078][662]LogNet: Browse: /Game/StarterContent/Blueprints/Maps/Level2
+[2021.03.16-15.56.55:078][662]LogLoad: LoadMap: /Game/StarterContent/Blueprints/Maps/Level2
+[2021.03.16-15.56.55:078][662]LogWorld: BeginTearingDown for /Game/StarterContent/Blueprints/Maps/LevelSelect
+[2021.03.16-15.56.55:079][662]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2021.03.16-15.56.55:079][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.16-15.56.55:116][662]LogAudio: Display: Waited 37.266102 ms for audio thread.
+[2021.03.16-15.56.55:118][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.16-15.56.55:120][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.16-15.56.55:393][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightQuarter.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:393][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightQuarter.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:394][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightQuarter.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:394][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightQuarter.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:394][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\LoopSmall.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:394][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\LoopSmall.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:395][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\BumpWaveSmall.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:395][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\BumpWaveSmall.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_90.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidRed': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_90.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_90.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_90.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidRed': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_90.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_90.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_45.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidRed': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_45.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:396][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_45.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:397][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_45.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidRed': Can't find file.
+[2021.03.16-15.56.55:397][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_45.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:397][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\Turn_45.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:397][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightHalf.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:397][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightHalf.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:397][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightHalf.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:397][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightHalf.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightFull.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightFull.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightFull.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/RedGrid': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\StraightFull.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/BlackGrid': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\RampLarge.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\RampLarge.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\BumpWedge.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:398][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\BumpWedge.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:399][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\BumpWave.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:399][662]LogUObjectGlobals: Warning: [AssetLog] F:\Project\RaceGame\RaceGame\Content\StarterContent\ArenaMesh\BumpWave.uasset: Failed to load '/Game/VehicleAdv/Materials/MaterialInstances/SolidOrange': Can't find file.
+[2021.03.16-15.56.55:553][662]LogStaticMesh: Building static mesh BumpWave...
+[2021.03.16-15.56.55:554][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/BumpWave.BumpWave
+[2021.03.16-15.56.55:554][662]LogStaticMesh: Building static mesh BumpWedge...
+[2021.03.16-15.56.55:555][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/BumpWedge.BumpWedge
+[2021.03.16-15.56.55:555][662]LogStaticMesh: Building static mesh RampLarge...
+[2021.03.16-15.56.55:556][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/RampLarge.RampLarge
+[2021.03.16-15.56.55:556][662]LogStaticMesh: Building static mesh StraightFull...
+[2021.03.16-15.56.55:557][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/StraightFull.StraightFull
+[2021.03.16-15.56.55:557][662]LogStaticMesh: Building static mesh StraightHalf...
+[2021.03.16-15.56.55:558][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/StraightHalf.StraightHalf
+[2021.03.16-15.56.55:558][662]LogStaticMesh: Building static mesh Turn_45...
+[2021.03.16-15.56.55:560][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/Turn_45.Turn_45
+[2021.03.16-15.56.55:561][662]LogStaticMesh: Building static mesh Turn_90...
+[2021.03.16-15.56.55:565][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/Turn_90.Turn_90
+[2021.03.16-15.56.55:566][662]LogStaticMesh: Building static mesh bet_1...
+[2021.03.16-15.56.55:610][662]LogStaticMesh: Built static mesh [0.04s] /Game/StarterContent/Blueprints/bet_1.bet_1
+[2021.03.16-15.56.55:614][662]LogStaticMesh: Building static mesh BumpWaveSmall...
+[2021.03.16-15.56.55:615][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/BumpWaveSmall.BumpWaveSmall
+[2021.03.16-15.56.55:616][662]LogStaticMesh: Building static mesh LoopSmall...
+[2021.03.16-15.56.55:621][662]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/ArenaMesh/LoopSmall.LoopSmall
+[2021.03.16-15.56.55:625][662]LogStaticMesh: Building static mesh StraightQuarter...
+[2021.03.16-15.56.55:626][662]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/ArenaMesh/StraightQuarter.StraightQuarter
+[2021.03.16-15.56.55:652][662]LogMaterial: Display: Missing cached shader map for material MasterGrid, compiling. 
+[2021.03.16-15.56.55:719][662]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 42
+[2021.03.16-15.56.55:719][662]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 36
+[2021.03.16-15.56.55:719][662]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2021.03.16-15.56.55:719][662]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.03.16-15.56.55:719][662]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.03.16-15.56.55:719][662]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.03.16-15.56.55:719][662]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.03.16-15.56.55:719][662]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2021.03.16-15.56.55:720][662]LogAIModule: Creating AISystem for world Level2
+[2021.03.16-15.56.55:721][662]LogLoad: Game class is 'level1_C'
+[2021.03.16-15.56.55:773][662]LogWorld: Bringing World /Game/StarterContent/Blueprints/Maps/Level2.Level2 up for play (max tick rate 0) at 2021.03.16-18.56.55
+[2021.03.16-15.56.55:774][662]LogWorld: Bringing up level for play took: 0.052321
+[2021.03.16-15.56.55:774][662]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.55:774][662]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.03.16-15.56.55:774][662]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.55:778][662]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.03.16-15.56.55:778][662]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.03.16-15.56.55:779][662]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.03.16-15.56.55:780][662]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.16-15.56.55:783][662]LogLoad: Took 0.705242 seconds to LoadMap(/Game/StarterContent/Blueprints/Maps/Level2)
+[2021.03.16-15.58.16:777][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.16-15.58.18:597][550]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.58.18:597][550]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.03.16-15.58.18:597][550]LogNet: Browse: /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.58.18:597][550]LogLoad: LoadMap: /Game/StarterContent/Blueprints/Maps/MainMenu
+[2021.03.16-15.58.18:597][550]LogWorld: BeginTearingDown for /Game/StarterContent/Blueprints/Maps/Level2
+[2021.03.16-15.58.18:598][550]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.03.16-15.58.18:656][550]LogOutputDevice: Warning: 
+
+Script Stack (2 frames):
+MainMenu_C.ExecuteUbergraph_MainMenu
+MainMenu_C.ReceiveBeginPlay
+
+[2021.03.16-15.58.18:979][550]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.324 s
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: 
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: Ensure condition failed: !World->bIsTearingDown [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/UMG/Private/UserWidget.cpp] [Line: 1961]
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: Widget Class MainMenu_C - Attempting to be created while tearing down the world 'Level2'
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: Stack: 
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb177c3b5 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb161b902 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb157d65b UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb16166a5 UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb17210cc UE4Editor-UMG.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee36526a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38c8207 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38df843 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee390d57f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38e238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38b6bfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38e1f84 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38e238d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38e1794 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee36526a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffee38e0ef3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb398c125 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb395acc7 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb396410c UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb42986ef UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb4cd88ed UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb42a9209 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb4d2cd68 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb4cf4ec2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb4c03b16 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb4bb0f52 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb4c231ed UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ffeb407693d UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ff72a989bda UE4Editor.exe!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ff72a9a11ac UE4Editor.exe!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ff72a9a128a UE4Editor.exe!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ff72a9b52ed UE4Editor.exe!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007ff72a9b801a UE4Editor.exe!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007fff17027c24 KERNEL32.DLL!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: [Callstack] 0x00007fff1852d721 ntdll.dll!UnknownFunction []
+[2021.03.16-15.58.18:979][550]LogOutputDevice: Error: 
