@@ -1,5 +1,5 @@
 # RaceGame!
-https://disk.yandex.ru/d/3XRklHYTkIIeUQ
+https://disk.yandex.ru/d/_IKC48kZwMRfoQ
 https://youtu.be/XJgK3fAvO3w
 
 The idea of the project is to creat a racing game with several different maps. There are several types of levels: obstacle course, passing checkpoints, relax level, climbing a mountain. 
@@ -15,7 +15,7 @@ Screenshots:
 Start-up instructions: 
 1. Download DirectX (letest version)
 2. Download Visual C++ Redistributable
-3. Follow this link [https://disk.yandex.ru/d/3XRklHYTkIIeUQ] and download archive
+3. Follow this link [https://disk.yandex.ru/d/_IKC48kZwMRfoQ] and download archive
 4. Run RaceGame.exe
 
 Recommended requirements:
