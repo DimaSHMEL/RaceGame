@@ -18,6 +18,25 @@ Start-up instructions:
 3. Follow this link [https://disk.yandex.ru/d/_IKC48kZwMRfoQ] and download archive
 4. Run RaceGame.exe
 
+Game control (keyboard): 
+1. w - moving forward
+2. s - backward movement
+3. a - turn left 
+4. d - turn right 
+5. r - restart with checkpoint 
+6. esc - pause menu
+7. tab - change view
+8. space - hand brake
+
+Game control (gamepad): 
+1. RT (or Left Stick) - moving forward
+2. LT (or Left Stick) - backward movement
+3. Left Stick - turn left 
+4. Left Stick - turn right 
+5. X - restart with checkpoint 
+6. Select - change view
+7. LB - hand brake
+
 Recommended requirements:
 1. OC: Windows 10 64bit
 2. CPU: Ryzen 5 3600 and higher
