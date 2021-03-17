@@ -1,6 +1,7 @@
 # RaceGame!
-https://disk.yandex.ru/d/_IKC48kZwMRfoQ
-https://youtu.be/XJgK3fAvO3w
+https://disk.yandex.ru/d/_IKC48kZwMRfoQ light version
+https://disk.yandex.ru/d/tq8SU52Aj0d_qQ hard versions with objects
+https://youtu.be/XJgK3fAvO3w video
 
 The idea of the project is to creat a racing game with several different maps. There are several types of levels: obstacle course, passing checkpoints, relax level, climbing a mountain. 
 
@@ -15,8 +16,9 @@ Screenshots:
 Start-up instructions: 
 1. Download DirectX (letest version)
 2. Download Visual C++ Redistributable
-3. Follow this link [https://disk.yandex.ru/d/_IKC48kZwMRfoQ] and download archive
-4. Run RaceGame.exe
+3. Follow this link [https://disk.yandex.ru/d/_IKC48kZwMRfoQ] for light version and this for https://disk.yandex.ru/d/tq8SU52Aj0d_qQ hard version and download archive
+4. Unzip it
+5. Run RaceGame.exe
 
 Game control (keyboard): 
 1. w - moving forward
