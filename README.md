@@ -53,6 +53,11 @@ Minimal requirements:
 4. RAM: 8 GB 
 5. Disk space: 2 GB
 
+Details: 
+Due to the fact that git-lfs does not support downloading more than 2gb (the build with the game weighs more than 2gb), the game was uploaded to the archive on Yandex Disk (https://disk.yandex.ru/d/tq8SU52Aj0d_qQ). Screenshots are attached: 
+![rAxQ-f7iowk](https://user-images.githubusercontent.com/56740309/111634335-77bdad00-8807-11eb-9f10-9baecea6e1ff.jpg)
+![gDSIvLQYEac](https://user-images.githubusercontent.com/56740309/111634432-8f953100-8807-11eb-893d-8e9f094664f4.jpg)
+ 
 Developers: 
 Андриевский Максим (ИКБО-13-20)
 Шмелёв Дмитрий (ИКБО-13-20)
